@@ -17,7 +17,7 @@
      }
      
      form{
-         width: 40%;
+         width: 30%;
          background-color: rgba(255, 255, 255, 0.034);
          position: absolute;
          transform: translate(-50%,-50%);
@@ -118,7 +118,7 @@ footer{
 }
 @media screen and (max-width:430px) {
     footer{
-        gap: 9em;
+        gap: 10em;
     }
 }
  a {
