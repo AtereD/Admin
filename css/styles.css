@@ -96,6 +96,12 @@ footer{
     padding-bottom: 10px;
     
 }
+
+@media screen and (max-width:640px) {
+    footer{
+        gap: 10em;
+    }
+}
  a {
      text-decoration:none;
  }
