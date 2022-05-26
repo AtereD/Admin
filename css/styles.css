@@ -118,7 +118,7 @@ footer{
 }
 @media screen and (max-width:430px) {
     footer{
-        gap: 10em;
+        gap: 8em;
     }
 }
  a {
