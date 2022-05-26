@@ -34,11 +34,25 @@
         min-width:100%;
     }
     form {
-        min-width:80%;
+        min-width:90%;
     }
-    
-
+}
+@media screen and (min-width:640px){
+    .background {
+        min-width:100%;
     }
+    form {
+        min-width:50%;
+    }
+}
+@media screen and (min-width:1024px){
+    .background {
+        min-width:100%;
+    }
+    form {
+        min-width:35%;
+    }
+}
 
    
 form *{
